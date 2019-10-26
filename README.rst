@@ -1,4 +1,4 @@
-vision_opencv
+Adaptation of vision_opencv to use with OpenCV 4
 =============
 
 .. image:: https://travis-ci.org/ros-perception/vision_opencv.svg?branch=indigo
